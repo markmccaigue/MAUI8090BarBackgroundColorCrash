@@ -20,7 +20,7 @@ public partial class MainPage : ContentPage
     {
         base.OnAppearing();
 
-        //UpdatePrimaryColor();
+        UpdatePrimaryColor();
     }
 
     private void OnButtonClicked(object sender, EventArgs e)
